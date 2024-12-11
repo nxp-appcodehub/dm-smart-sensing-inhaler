@@ -65,7 +65,9 @@ The image below show the Hardware Setup:<br>
 ### 3.2 Software Setup<a name="step3.2"></a>
 
 #### 3.2.1 Step 1: Download and Install required Software(s)
-- Download and Install [MCUXpresso IDE v11.10.0 or newer](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
+- Download and Install [MCUXpresso IDE v11.10.0](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)<br>
+  - Go to download section and select "Previous" tab.
+  - Search for MCUXpresso IDE v11.10.0 and download.
 - Download and Install [MCUXpresso SDKv2.16.0 for FRDM-MCXW71 or newer](https://mcuxpresso.nxp.com/en/builder?hw=FRDM-MCXW71)
 - Download and Install [FreeMaster Tool v3.2 or newer](https://www.nxp.com/webapp/sps/download/license.jsp?colCode=FMASTERSW&appType=file1&DOWNLOAD_ID=null)
 - Download and Install [NXP IoT ToolBox App - Android Store](https://play.google.com/store/apps/details?id=com.freescale.kinetisbletoolbox&hl=en_US&pli=1) or
